@@ -1,0 +1,243 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3654987,
+                        "positionName": "广告销售经理",
+                        "city": "北京",
+                        "createTime": "今天 19:27",
+                        "salary": "10k-20k",
+                        "companyId": 109589,
+                        "companyLogo": "i/image/M00/2E/B2/CgpEMlkuh12AJuIRAADti2ZvN-w142.jpg",
+                        "companyName": "新世相",
+                        "companyFullName": "北京世相科技文化有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3649262,
+                        "positionName": "移动UI设计师",
+                        "city": "北京",
+                        "createTime": "今天 19:26",
+                        "salary": "10k-18k",
+                        "companyId": 109589,
+                        "companyLogo": "i/image/M00/2E/B2/CgpEMlkuh12AJuIRAADti2ZvN-w142.jpg",
+                        "companyName": "新世相",
+                        "companyFullName": "北京世相科技文化有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3652467,
+                        "positionName": "业务策略分析师",
+                        "city": "北京",
+                        "createTime": "今天 19:17",
+                        "salary": "15k-30k",
+                        "companyId": 35996,
+                        "companyLogo": "image1/M00/0B/E5/CgYXBlT0JAmATdmDAAA6dg5X4_k508.jpg",
+                        "companyName": "顺丰科技有限公司",
+                        "companyFullName": "顺丰科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3652498,
+                        "positionName": "商业战略分析师",
+                        "city": "北京",
+                        "createTime": "今天 19:17",
+                        "salary": "15k-30k",
+                        "companyId": 35996,
+                        "companyLogo": "image1/M00/0B/E5/CgYXBlT0JAmATdmDAAA6dg5X4_k508.jpg",
+                        "companyName": "顺丰科技有限公司",
+                        "companyFullName": "顺丰科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3663485,
+                        "positionName": "Android SDK 研发工程师",
+                        "city": "北京",
+                        "createTime": "今天 19:07",
+                        "salary": "15k-25k",
+                        "companyId": 26508,
+                        "companyLogo": "i/image/M00/13/A6/Cgp3O1bnxKGAT_c6AAAWrOvgp1A992.jpg",
+                        "companyName": "iHandy",
+                        "companyFullName": "北京汉迪移动互联网科技股份有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3664860,
+                        "positionName": "iOS SDK 研发工程师",
+                        "city": "北京",
+                        "createTime": "今天 19:07",
+                        "salary": "15k-25k",
+                        "companyId": 26508,
+                        "companyLogo": "i/image/M00/13/A6/Cgp3O1bnxKGAT_c6AAAWrOvgp1A992.jpg",
+                        "companyName": "iHandy",
+                        "companyFullName": "北京汉迪移动互联网科技股份有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3663294,
+                        "positionName": "手机百度策略研发工程师",
+                        "city": "北京",
+                        "createTime": "今天 19:05",
+                        "salary": "20k-40k",
+                        "companyId": 1575,
+                        "companyLogo": "i/image/M00/21/3E/CgpFT1kVdzeAJNbUAABJB7x9sm8374.png",
+                        "companyName": "百度",
+                        "companyFullName": "百度在线网络技术（北京）有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3655252,
+                        "positionName": "游戏特效师",
+                        "city": "成都",
+                        "createTime": "今天 19:00",
+                        "salary": "7k-10k",
+                        "companyId": 267146,
+                        "companyLogo": "i/image2/M00/06/7F/CgotOVnKBpmALW7aAAB7-FQe6TU383.png",
+                        "companyName": "绘意",
+                        "companyFullName": "成都绘意动画制作有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3655027,
+                        "positionName": "人事行政实习生",
+                        "city": "北京",
+                        "createTime": "今天 19:00",
+                        "salary": "2k-4k",
+                        "companyId": 73184,
+                        "companyLogo": "i/image/M00/BF/F5/CgqKkVjRGvuAeBNHAAA9vND4p-U397.jpg",
+                        "companyName": "薪人薪事",
+                        "companyFullName": "企家有道网络技术（北京）有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3649121,
+                        "positionName": "客服专员",
+                        "city": "杭州",
+                        "createTime": "今天 18:56",
+                        "salary": "4k-5k",
+                        "companyId": 53200,
+                        "companyLogo": "image1/M00/0A/C0/CgYXBlTwISeAJAc6AABjXwlO8fk142.jpg",
+                        "companyName": "掌维科技",
+                        "companyFullName": "杭州掌维科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3664824,
+                        "positionName": "高级数据分析师",
+                        "city": "北京",
+                        "createTime": "今天 18:54",
+                        "salary": "15k-23k",
+                        "companyId": 7545,
+                        "companyLogo": "i/image/M00/A8/F8/CgqKkViviqmAOKorAACQDn5cC1k079.jpg",
+                        "companyName": "金融界网站（互联网证券）",
+                        "companyFullName": "北京富华创新科技发展有限责任公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3662194,
+                        "positionName": "BD（上海）",
+                        "city": "上海",
+                        "createTime": "今天 18:53",
+                        "salary": "10k-20k",
+                        "companyId": 542,
+                        "companyLogo": "i/image/M00/03/F6/Cgp3O1bFJYaAU9eLAABG1t1Bos4569.jpg",
+                        "companyName": "婚礼纪",
+                        "companyFullName": "杭州火烧云科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3662480,
+                        "positionName": "销售BD（上海）",
+                        "city": "上海",
+                        "createTime": "今天 18:53",
+                        "salary": "10k-20k",
+                        "companyId": 542,
+                        "companyLogo": "i/image/M00/03/F6/Cgp3O1bFJYaAU9eLAABG1t1Bos4569.jpg",
+                        "companyName": "婚礼纪",
+                        "companyFullName": "杭州火烧云科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3664825,
+                        "positionName": "Web前端程序员",
+                        "city": "成都",
+                        "createTime": "今天 18:51",
+                        "salary": "10k-15k",
+                        "companyId": 105008,
+                        "companyLogo": "image2/M00/13/C9/CgqLKVY8G1OAZoTbAAAXYJo1qyU633.jpg?cc=0.8383644658606499",
+                        "companyName": "美中科技",
+                        "companyFullName": "成都美中网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3656058,
+                        "positionName": "支付产品经理",
+                        "city": "成都",
+                        "createTime": "今天 18:46",
+                        "salary": "15k-20k",
+                        "companyId": 50242,
+                        "companyLogo": "image1/M00/00/84/Cgo8PFTUXeGALy0vAACltZH82WA791.jpg",
+                        "companyName": "新希望六和",
+                        "companyFullName": "新希望六和股份有限公司"
+                    }
+                ],
+                "totalCount": "286243",
+                "pageNo": 2
+            }
+        },
+        "rows": []
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}

@@ -1,0 +1,25 @@
+<div class="info">
+  <div>10秒钟定制职位</div>
+  <div>
+    <span>去登录</span>
+  </div>
+</div>
+<div class="list">
+  <ul>
+    {{each result}}
+      <li class="list-item">
+          <img src="//static.lagou.com/{{$value.companyLogo}}" class="item-logo">
+          <div class="item-desc">
+              <h2 class="item-title">{{$value.companyName}}</h2>
+              <p class="item-info">
+                  <span class="item-pos">
+                      {{$value.positionName}}
+                  </span>
+                  <span class="item-salary">{{$value.salary}}</span>
+              </p>
+              <p class="item-time">{{$value.createTime}}</p>
+          </div>
+      </li>
+    {{/each}}
+  </ul>
+</div>
